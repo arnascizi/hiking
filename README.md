@@ -37,6 +37,7 @@ Example body:
 * migrate to gradle
 * create endpoint to add your items
 * refactor logic
+* write tests
 * clean code
 
 ## DONE
